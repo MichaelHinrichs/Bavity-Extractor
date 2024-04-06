@@ -1,0 +1,2 @@
+# Bavity-Extractor
+ Extracts [Bavity's](https://store.steampowered.com/app/1811710) bavity.world file. Drag and drop the file onto the app. The extracted files are encypted. Bavity Extractor can't decrypt them yet.
